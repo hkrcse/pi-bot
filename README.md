@@ -1,4 +1,4 @@
-# pi-bot
+# Pi-Bot : A Trash Collector
 Object Detecting Arduino Powered Robot
 
 ![WhatsApp Image 2022-07-26 at 11 09 34 AM](https://github.com/hkrcse/pi-bot/assets/63110863/d0d547fe-ba23-429a-8c8f-76cea9374639)
